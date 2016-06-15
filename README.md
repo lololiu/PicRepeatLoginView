@@ -5,7 +5,7 @@
 
 
 ##### 实现效果
-![image](https://github.com/lololiu/demo4popupwindow/raw/master/screenshots/screenshot.gif)
+![image](https://github.com/lololiu/PicRepeatLoginView/raw/master/screenshots/screenshot.gif)
 
 ##### 关键代码：
 ```java
